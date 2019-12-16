@@ -1,2 +1,2 @@
-# seniorprjct
+# seniorproject
 senior year project
